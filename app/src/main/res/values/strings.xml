@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFairytales</string>
+
+    <string name="content">Выберете сказку</string>
+    <string name="Fairytale1">Сивка-бурка</string>
+    <string name="Fairytale2">Василиса прекрасная</string>
+    <string name="Fairytale3">Крошечка-Хаврошечка</string>
+    <string name="Fairytale4">По щучьему велению</string>
+</resources>
